@@ -1,0 +1,25 @@
+
+
+  html {
+    background-color: #ffffff;
+  }
+
+  html {
+    font-size: 20px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+    font-family: Nabla;
+  }
+
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #aeaedb;
+    padding: 0 20px 20px 20px;
+    border: 1px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+  }
